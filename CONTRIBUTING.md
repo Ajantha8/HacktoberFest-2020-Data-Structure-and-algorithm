@@ -6,3 +6,6 @@
 
 ### Shreyans Jain
 - Github: https://github.com/Shreyans13
+
+### Ajantha Wijerathna
+- Github: https://github.com/Ajantha8
